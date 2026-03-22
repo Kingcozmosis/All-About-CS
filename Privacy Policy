@@ -1,59 +1,75 @@
-# Privacy Policy
-Last Updated: March 2026
+Privacy Policy
+Last Updated: March 22, 2026
 
-All Things CS ("the Bot") respects your privacy. This Privacy Policy explains what information may be collected and how it is used when you use the bot.
+All Things CS ("the Bot") respects the privacy of its users and is committed to protecting any information that may be collected while using the Bot.
 
-## Information We Collect
+1. Information Collected
 
-The bot may store limited information necessary for its features to function. This may include:
+The Bot may collect and temporarily process the following information provided by Discord:
 
-• Discord Server IDs  
-• Discord Channel IDs  
-• Discord Role IDs  
-• Configuration data required for bot features (such as news or update channels)
+• Server (Guild) ID
+• Channel IDs used for setup commands
+• Role IDs used for notifications
+• User IDs for command interaction
 
-The bot **does not collect personal user data** such as messages, email addresses, passwords, or private information.
+This information is only used to operate the Bot's features such as:
+• Posting Dust2 news
+• Posting CS2 updates
+• Managing server configurations
+• Processing commands
 
-## How We Use Information
+No personal information outside of what Discord provides is collected.
 
-The information stored is used only to provide the bot's functionality, including:
+2. Data Storage
 
-• Posting Dust2 news updates  
-• Posting CS2 update announcements  
-• Configuring channels and roles for notifications  
-• Operating bot commands
+The Bot stores minimal configuration data such as:
 
-This data is used strictly for bot operation and service improvement.
+• Server configuration settings
+• Selected channels
+• Selected roles
+• Last posted news/update links
 
-## Data Storage
+This data is stored locally in configuration files for the purpose of running the Bot's features.
 
-Configuration data may be stored locally or on the server hosting the bot. This data is only used to maintain bot functionality within Discord servers where the bot is installed.
+3. Data Usage
 
-## Data Sharing
+Collected data is used solely for:
 
-All Things CS **does not sell, share, or distribute user data** to third parties.
+• Providing bot functionality
+• Delivering configured updates
+• Responding to commands
+• Maintaining server settings
 
-The bot may use third-party services to provide information, including:
+Data is never sold, shared, or used for advertising purposes.
 
-• BO3.gg  
-• Steam Community  
+4. Third-Party Services
+
+The Bot may retrieve information from third-party sources including:
+
+• BO3.gg
 • Dust2.us
+• Steam Community
+• CS2 API services
 
-These services operate under their own privacy policies.
+These services may have their own privacy policies.
 
-## Data Removal
+5. Data Removal
 
-Server administrators may remove stored data by:
+Server administrators can remove stored data at any time by:
 
-• Removing the bot from their server  
-• Using configuration commands to disable features
+• Disabling bot features using setup commands
+• Removing the bot from the server
 
-Once removed, stored configuration data related to that server may be deleted.
+Once removed, configuration data related to that server may be deleted.
 
-## Changes to This Policy
+6. Security
 
-This Privacy Policy may be updated at any time to reflect changes to the bot or its services.
+Reasonable efforts are made to protect stored configuration data. However, no system is completely secure.
 
-## Contact
+7. Changes to this Policy
 
-If you have questions regarding this Privacy Policy, you may contact the developer through the GitHub repository for this project.
+This Privacy Policy may be updated periodically. Continued use of the Bot constitutes acceptance of any changes.
+
+8. Contact
+
+For questions regarding this Privacy Policy, please contact the developer via the GitHub repository where the bot is hosted.
